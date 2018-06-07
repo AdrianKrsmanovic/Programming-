@@ -6,3 +6,4 @@
 [graded assignment 1](https://github.com/AdrianKrsmanovic/Programming-/blob/master/graded_assignment_1.Rmd)
 [graded assignment 2](https://github.com/AdrianKrsmanovic/Programming-/blob/master/graded_assignment_2.Rmd)
 [Exam_Python](https://github.com/AdrianKrsmanovic/Programming-/blob/master/exam_june_7_2018.ipynb)
+[Exam_R](https://github.com/AdrianKrsmanovic/Programming-/blob/master/Exam_student.ipynb)
