@@ -7,3 +7,5 @@
 [graded assignment 2](https://github.com/AdrianKrsmanovic/Programming-/blob/master/graded_assignment_2.Rmd)
 [Exam_Python](https://github.com/AdrianKrsmanovic/Programming-/blob/master/exam_june_7_2018.ipynb)
 [Exam_R](https://github.com/AdrianKrsmanovic/Programming-/blob/master/Exam_student.ipynb)
+[Exam_R_September](https://github.com/AdrianKrsmanovic/Programming-/blob/master/exam_2_student.Rmd)
+[Exam_Python_September](https://github.com/AdrianKrsmanovic/Programming-/blob/master/exam_Sep_21_2018.ipynb)
